@@ -1,6 +1,6 @@
-## :ledger: OutSystems Low-Code Exercises
-
 ![OutSystems Image](./OutSystems_exercises_Logo.png)
+
+## :ledger: OutSystems Low-Code Exercises
 
 [![contributions welcome](https:/xxxxx.md)
 
