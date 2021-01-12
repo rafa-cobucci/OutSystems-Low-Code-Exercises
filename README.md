@@ -1,5 +1,3 @@
-# OutsystemsProjects
-A list of low-code exercises
 ## :ledger: OutSystems Low-Code Exercises
 
 ![OutSystems Image](./OutSystems_exercises_Logo.png)
