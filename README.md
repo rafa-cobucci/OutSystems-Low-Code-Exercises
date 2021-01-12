@@ -2,8 +2,6 @@
 
 ## :ledger: OutSystems Low-Code Exercises
 
-[![contributions welcome](https:/xxxxx.md)
-
 No idea what to do to practice Outsystems Low-Code? Here are a list of exercises that will help you improving your coding skills!! 👍
 
 These exercises are focuses on:
@@ -55,3 +53,5 @@ Exercises are divided into two tiers.
 | [MovieApp](./Projects/1-Beginner/MovieApp.md)                                     | Browse your next movie to watch                                    | 2-Intermediate |
 | [WeatherApp](./Projects/1-Beginner/WeatherApp.md)                                 | Get the weather condition of a city                                | 2-Intermediate |
 | [WebScraping](./Projects/1-Beginner/WebScraping.md)                               | Extract data from a website                                        | 2-Intermediate |
+
+[![contributions welcome](https:/xxxxx.md)
