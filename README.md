@@ -2,7 +2,7 @@
 A list of low-code exercises
 ## :ledger: OutSystems Low-Code Exercises
 
-![OutSystems Image](./xxxxx.png)
+![OutSystems Image](./OutSystems_exercises_Logo.png)
 
 [![contributions welcome](https:/xxxxx.md)
 
