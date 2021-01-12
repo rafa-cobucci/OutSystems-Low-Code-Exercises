@@ -1,4 +1,4 @@
-![OutSystems Image](./OutSystems_exercises_Logo.png)
+![OutSystems Image](./OutSystems_exercises_Logo2.png)
 
 ## :ledger: OutSystems Low-Code Exercises
 
