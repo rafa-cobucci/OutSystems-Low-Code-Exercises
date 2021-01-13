@@ -16,6 +16,8 @@ Web Block, Link, Icons, built-in action (RunJavaScript), CSS properties.
 
 - https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Reuse_UI/Create_and_Reuse_Screen_Blocks
 
+- https://developer.cdn.mozilla.net/pt-BR/docs/Web/API/Element/classList
+
 - https://developer.mozilla.org/en-US/docs/Web/CSS/position
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
