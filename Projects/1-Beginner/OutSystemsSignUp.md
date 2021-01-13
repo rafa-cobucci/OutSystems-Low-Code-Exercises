@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Clone the Outsystems signup page. 
+Clone the OutSystems signup page. 
 
 ### What you will practice:
 
