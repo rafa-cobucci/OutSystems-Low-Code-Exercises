@@ -10,4 +10,4 @@ UI pattern - FlipContent, Web Block properties and image widget.
 
 ### Useful links and resoucers:
 
-https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Utilities/Flip_Content
+- https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Utilities/Flip_Content
