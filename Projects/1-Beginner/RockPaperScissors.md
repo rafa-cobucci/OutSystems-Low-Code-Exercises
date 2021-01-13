@@ -6,7 +6,7 @@ Build a Rock Paper Scissors game. Game tutorial from freeCodeCamp.org.
 
 ### What you will practice:
 
-Server action, Server action function, Extension, Switch widget, RunJavaScript(Server action).
+Server action, Server action function, Extension, Switch widget, RunJavaScript(Server action), CSS properties.
 
 ### Useful links and resoucers:
 
