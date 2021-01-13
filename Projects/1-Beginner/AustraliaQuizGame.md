@@ -11,4 +11,5 @@ Local variable (data type: list), Ajax refresh, Screen action, List records, Car
 ### Useful links and resoucers:
 
 https://www.youtube.com/watch?v=J8QbjXdVl9c
+
 https://outsystemsui.outsystems.com/WebStyleGuidePreview/Homepage.aspx
