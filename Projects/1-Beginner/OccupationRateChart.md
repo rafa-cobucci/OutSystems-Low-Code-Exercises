@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create a line chart using DataPoint (a Charts structure custom data type). Chart type: Hotel Occupation Rate.
+Create a line chart using DataPoint (Charts structure). Chart type: Hotel Occupation Rate.
 
 ### What you will practice:
 
