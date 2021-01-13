@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create a line chart using DataPoint (Charts structure). Chart type: Hotel Occupation Rate.
+Create a line chart using DataPoint (Charts structure). The Chart should display the hotel occupancy, in percentage (Y-axis), for the next 7 days (X-axis).
 
 ### What you will practice:
 
