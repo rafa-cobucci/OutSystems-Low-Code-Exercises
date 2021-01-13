@@ -11,7 +11,7 @@ ListAppend (System Server Action)
 
 ### Useful links and resoucers:
 
-https://success.outsystems.com/Documentation/11/Reference/OutSystems_APIs/Charts_API/Advanced_Charts_customization_with_JSON
-https://success.outsystems.com/Documentation/11/Reference/OutSystems_APIs/Charts_API
-https://api.highcharts.com/highcharts/
-https://www.highcharts.com/demo/combo-dual-axes
+- https://success.outsystems.com/Documentation/11/Reference/OutSystems_APIs/Charts_API/Advanced_Charts_customization_with_JSON
+- https://success.outsystems.com/Documentation/11/Reference/OutSystems_APIs/Charts_API
+- https://api.highcharts.com/highcharts/
+- https://www.highcharts.com/demo/combo-dual-axes
