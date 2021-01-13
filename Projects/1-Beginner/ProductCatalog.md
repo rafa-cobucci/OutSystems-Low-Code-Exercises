@@ -2,11 +2,11 @@
 
 ### About The Exercise:
 
-Rebuild an Outsystems Screen Template (Product Catalog).
+Rebuild an Outsystems Screen Template (Product Catalog).  A product showcase on a single screen that can switch between a gallery and a list view.
 
 ### What you will practice:
 
-UI patterns - (Gallery, Search, Tag), Switch widget, If function, Refresh Data, Ajax refresh, Combo Box widget, Custom data type, Link, Icon.
+UI patterns - (Gallery, Search, Tag), Switch widget, If function, Refresh data, Ajax refresh, Combo Box widget, Custom data type, Link, Icon.
 
 ### Useful links and resoucers:
 
