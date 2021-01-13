@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create an <input> with the type of password and an icon that allows users to click it to toggle the visibility of the password.
+Create an input with the type of password and an icon that allows users to click it to toggle the visibility of the password.
 
 ### What you will practice:
 
