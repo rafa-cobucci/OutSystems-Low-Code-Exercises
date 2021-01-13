@@ -19,4 +19,4 @@ https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation
 
 ### Example
 
-![OutSystems Image](./.png)
+![OutSystems Image](./mySearchPage.png)
