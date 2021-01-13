@@ -10,10 +10,10 @@ UI pattern - RangeSlider, input and container extended properties, CSS propertie
 
 ### Useful links and resoucers:
 
-https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Controls/Range_Slider
+- https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Controls/Range_Slider
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+- https://developer.mozilla.org/en-US/docs/Web/CSS/transform
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
