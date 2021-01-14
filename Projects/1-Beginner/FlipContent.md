@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Change the orientation (Vertical Flip) of images across two axes. On click change the status and message of the Alert(UI pattern).
+Change the orientation (Vertical Flip) of images across two axes. On click change the status and the message of the Alert(UI pattern).
 
 ### What you will practice:
 
