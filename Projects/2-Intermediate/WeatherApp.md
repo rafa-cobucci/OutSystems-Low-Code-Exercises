@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Build an application that get the weather condition of cities.
+Build an application that get the weather condition of a city.
 
 ### What you will practice:
 
