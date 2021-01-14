@@ -55,7 +55,8 @@ Exercises are divided into two levels.
 | [WebScraping](./Projects/2-Intermediate/WebScraping.md)                           | Extract data from a website                                        | 2-Intermediate |
 
 
-## Thanks for inspiration: 👍
+
+### Thanks for inspiration: 👍
 
 - Florin Pop        -- https://github.com/florinpop17
 - Colt Steele       -- https://github.com/Colt
