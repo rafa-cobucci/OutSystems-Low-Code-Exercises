@@ -24,7 +24,7 @@ Exercises are divided into two levels.
 |   2   | Intermediate - API services and a little bit more of logic                         |
 
 
-### Tier-1: Beginner Exercises
+### Level-1: Beginner Exercises
 
 | Name                                                                              | Short Description                                                  | Tier       |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|------------|
@@ -43,7 +43,7 @@ Exercises are divided into two levels.
 | [ReCaptcha](./Projects/1-Beginner/ReCaptcha.md)                                   | ReCaptcha Forge component                                          | 1-Beginner |
 | [Simple Checkout Page](./Projects/1-Beginner/CheckoutPage.md)                     | Create a simple checkout page                                      | 1-Beginner |
 
-### Tier-2: Intermediate Exercises
+### Level-2: Intermediate Exercises
 
 | Name                                                                              | Short Description                                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
