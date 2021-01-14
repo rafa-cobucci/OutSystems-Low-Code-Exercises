@@ -38,7 +38,7 @@ Exercises are divided into two levels.
 | [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle Password Visibility                                         | 1-Beginner |
 | [ProductCatalog](./Projects/1-Beginner/ProductCatalog.md)                         | Rebuild an Outsystems Screen Template                              | 1-Beginner |
 | [ReCaptcha](./Projects/1-Beginner/ReCaptcha.md)                                   | Consume a Forge component                                          | 1-Beginner |
-| [Simple Checkout Page](./Projects/1-Beginner/CheckoutPage.md)                     | Create a simple checkout page                                      | 1-Beginner |
+| [Simple Checkout Page](./Projects/1-Beginner/SimpleCheckoutPage.md)               | Create a simple checkout page                                      | 1-Beginner |
 
 ### Level-2: Intermediate Exercises
 
