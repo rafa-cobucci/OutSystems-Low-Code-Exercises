@@ -6,7 +6,7 @@ Change the orientation of images across two axes. Use the Flip Content UI Patter
 
 ### What you will practice:
 
-UI pattern - FlipContent, Web Block properties and image widget.
+UI pattern - FlipContent, Web Block properties and Image widget.
 
 ### Useful links and resoucers:
 
