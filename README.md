@@ -2,31 +2,31 @@
 
 ## :ledger: OutSystems Low-Code Exercises
 
-No idea what to do to practice Outsystems Low-Code? Here are a list of exercises that will help you improving your coding skills!! 👍
+No idea what to do to practice Outsystems? Here are a list of coding exercises that will help you improving your OutSystems skills!! 👍
 
 These exercises are focuses on:
 
 - UI development;
-- logic;
-- data modeling;
-- web services integration;
+- Logic;
+- Data Modeling;
+- Web Services Integration;
 
 
 ## Exercises
 
-Exercises are divided into two tiers.
+Exercises are divided into two levels.
 
-| Tier | Level                                                                              |
-| :--: | -----------------------------------------------------------------------------------|
-|  1   | Beginner - Those who are typically focused on creating user-facing applications.   |
-|  2   | Intermediate - Building apps that use API services.                                |
+| Level |                                                                                    |
+|  :-:  | -----------------------------------------------------------------------------------|
+|   1   | Beginner - Focused on UI patterns and widgets.                                     |
+|   2   | Intermediate - API services and a little bit more of logic                         |
 
 
 ### Tier-1: Beginner Exercises
 
 | Name                                                                              | Short Description                                                  | Tier       |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|------------|
-| [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuizGame.md)                     | Build a simple quiz game                                           | 1-Beginner |
+| [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuizGame.md)                 | Build a simple quiz game                                           | 1-Beginner |
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
 | [DynamicCSSVariables](./Projects/1-Beginner/DynamicCSSVariables.md)               | Dynamically change CSS variable settings                           | 1-Beginner |
 | [FlipContent](./Projects/1-Beginner/Christmas-Lights-App.md)                      | Set up a flip content with two images                              | 1-Beginner |
@@ -40,7 +40,6 @@ Exercises are divided into two tiers.
 | [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle Password Visibility                                         | 1-Beginner |
 | [ProductCatalog](./Projects/1-Beginner/ProductCatalog.md)                         | Rebuild an Outsystems Screen Template                              | 1-Beginner |
 | [ReCaptcha](./Projects/1-Beginner/ReCaptcha.md)                                   | ReCaptcha Forge component                                          | 1-Beginner |
-| [RockPaperScissors](./Projects/1-Beginner/RockPaperScissors.md)                   | A simple rock paper scissor game                                   | 1-Beginner |
 | [Simple Checkout Page](./Projects/1-Beginner/CheckoutPage.md)                     | Create a simple checkout page                                      | 1-Beginner |
 | [TableWithFixedHeader](./Projects/1-Beginner/TableWithFixedHeader.md)             | A scrollable table with a fixed header                             | 1-Beginner |
 | [WebBlockPassData](./Projects/1-Beginner/WebBlockPassData.md)                     | Get values from web block                                          | 1-Beginner |
@@ -51,6 +50,7 @@ Exercises are divided into two tiers.
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
 | [CatApp](./Projects/1-Beginner/CatApp.md)                                         | Discover more about cat breeds                                     | 2-Intermediate |
 | [MovieApp](./Projects/1-Beginner/MovieApp.md)                                     | Browse your next movie to watch                                    | 2-Intermediate |
+| [RockPaperScissors](./Projects/1-Beginner/RockPaperScissors.md)                   | A simple rock paper scissor game                                   | 2-Intermediate |
 | [WeatherApp](./Projects/1-Beginner/WeatherApp.md)                                 | Get the weather condition of a city                                | 2-Intermediate |
 | [WebScraping](./Projects/1-Beginner/WebScraping.md)                               | Extract data from a website                                        | 2-Intermediate |
 
