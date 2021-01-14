@@ -50,7 +50,7 @@ Exercises are divided into two levels.
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Discover more about cat breeds                                     | 2-Intermediate |
 | [MovieApp](./Projects/2-Intermediate/MovieApp.md)                                 | Browse your next movie to watch                                    | 2-Intermediate |
-| [RockPaperScissors](./Projects/2-Intermediate/RockPaperScissors.md)               | A simple rock paper scissor game                                   | 2-Intermediate |
+| [RockPaperScissors](./Projects/2-Intermediate/RockPaperScissors.md)               | A rock paper scissor game                                          | 2-Intermediate |
 | [WeatherApp](./Projects/2-Intermediate/WeatherApp.md)                             | Get the weather condition of a city                                | 2-Intermediate |
 | [WebScraping](./Projects/2-Intermediate/WebScraping.md)                           | Extract data from a website                                        | 2-Intermediate |
 
