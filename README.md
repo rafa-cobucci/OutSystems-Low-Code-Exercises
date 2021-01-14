@@ -31,7 +31,7 @@ Exercises are divided into two levels.
 | [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuizGame.md)                 | Build a simple quiz game                                           | 1-Beginner |
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
 | [DynamicCSSVariables](./Projects/1-Beginner/DynamicCSSVariables.md)               | Dynamically change CSS variable settings                           | 1-Beginner |
-| [FlipContent](./Projects/1-Beginner/FlipContent-App.md)                           | Set up a flip content with two images                              | 1-Beginner |
+| [FlipContent](./Projects/1-Beginner/FlipContent.md)                               | Set up a flip content with two images                              | 1-Beginner |
 | [HighChart](./Projects/1-Beginner/HighChart.md)                                   | Chart showing a combination of a column and a line chart           | 1-Beginner |
 | [OccupationRateChart](./Projects/1-Beginner/OccupationRateChart.md)               | Create a chart using DataPoint structure                           | 1-Beginner |
 | [OutSystemsSignUp](./Projects/1-Beginner/OutSystemsSignUp.md)                     | Clone Outsystems signup page                                       | 1-Beginner |
