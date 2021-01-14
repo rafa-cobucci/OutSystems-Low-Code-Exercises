@@ -6,7 +6,7 @@ Build a simple quiz game with a few questions about Australia.
 
 ### What you will practice:
 
-Local variable (data type: list), Ajax refresh, Screen action, List records, Card sectioned, expression, icons, if(flow based on a condition), JavaScript(built-in action).
+Local variable (data type: list), Ajax refresh, Screen action, List records, Card sectioned, expression, icons, if widget, JavaScript(built-in action).
 
 ### Useful links and resoucers:
 
