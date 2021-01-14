@@ -26,7 +26,7 @@ Exercises are divided into two levels.
 
 ### Level-1: Beginner Exercises
 
-| Name                                                                              | Short Description                                                  | Tier       |
+| Name                                                                              | Short Description                                                  | Level      |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|------------|
 | [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuizGame.md)                 | Build a simple quiz game                                           | 1-Beginner |
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
@@ -45,7 +45,7 @@ Exercises are divided into two levels.
 
 ### Level-2: Intermediate Exercises
 
-| Name                                                                              | Short Description                                                  | Tier           |
+| Name                                                                              | Short Description                                                  | Level          |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Learn about the characteristics and behaviors of your cat's breed  | 2-Intermediate |
 | [ModalDialog](./Projects/1-Beginner/ModalDialog.md)                               | Manage many-to-many relationship                                   | 2-Intermediate |
