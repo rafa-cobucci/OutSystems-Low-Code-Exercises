@@ -29,7 +29,7 @@ Exercises are divided into two levels.
 | [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuizGame.md)                 | Build a simple quiz game                                           | 1-Beginner |
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
 | [DynamicCSSVariables](./Projects/1-Beginner/DynamicCSSVariables.md)               | Dynamically change CSS variable settings                           | 1-Beginner |
-| [FlipContent](./Projects/1-Beginner/Christmas-Lights-App.md)                      | Set up a flip content with two images                              | 1-Beginner |
+| [FlipContent](./Projects/1-Beginner/FlipContent-App.md)                           | Set up a flip content with two images                              | 1-Beginner |
 | [FloatingSearchBar](./Projects/1-Beginner/FloatingSearchBar.md)                   | Create a floating search bar                                       | 1-Beginner |
 | [HighChart](./Projects/1-Beginner/HighChart.md)                                   | Chart showing a combination of a column and a line chart           | 1-Beginner |
 | [MemoryCardGame](./Projects/1-Beginner/MemoryCardGame.md)                         | A card memory game                                                 | 1-Beginner |
@@ -41,8 +41,6 @@ Exercises are divided into two levels.
 | [ProductCatalog](./Projects/1-Beginner/ProductCatalog.md)                         | Rebuild an Outsystems Screen Template                              | 1-Beginner |
 | [ReCaptcha](./Projects/1-Beginner/ReCaptcha.md)                                   | ReCaptcha Forge component                                          | 1-Beginner |
 | [Simple Checkout Page](./Projects/1-Beginner/CheckoutPage.md)                     | Create a simple checkout page                                      | 1-Beginner |
-| [TableWithFixedHeader](./Projects/1-Beginner/TableWithFixedHeader.md)             | A scrollable table with a fixed header                             | 1-Beginner |
-| [WebBlockPassData](./Projects/1-Beginner/WebBlockPassData.md)                     | Get values from web block                                          | 1-Beginner |
 
 ### Tier-2: Intermediate Exercises
 
