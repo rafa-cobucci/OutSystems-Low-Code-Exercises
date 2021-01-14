@@ -34,8 +34,6 @@ Exercises are divided into two levels.
 | [FlipContent](./Projects/1-Beginner/FlipContent-App.md)                           | Set up a flip content with two images                              | 1-Beginner |
 | [FloatingSearchBar](./Projects/1-Beginner/FloatingSearchBar.md)                   | Create a floating search bar                                       | 1-Beginner |
 | [HighChart](./Projects/1-Beginner/HighChart.md)                                   | Chart showing a combination of a column and a line chart           | 1-Beginner |
-| [MemoryCardGame](./Projects/1-Beginner/MemoryCardGame.md)                         | A card memory game                                                 | 1-Beginner |
-| [MySearch Page](./Projects/1-Beginner/MySearch.md)                                | A search engine page                                               | 1-Beginner |
 | [OccupationRateChart](./Projects/1-Beginner/OccupationRateChart.md)               | Create a chart using DataPoint structure                           | 1-Beginner |
 | [OutSystemsSignUp](./Projects/1-Beginner/OutSystemsSignUp.md)                     | Clone Outsystems signup page                                       | 1-Beginner |
 | [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle Password Visibility                                         | 1-Beginner |
@@ -48,8 +46,10 @@ Exercises are divided into two levels.
 | Name                                                                              | Short Description                                                  | Level          |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Learn about the characteristics and behaviors of your cat's breed  | 2-Intermediate |
-| [ModalDialog](./Projects/1-Beginner/ModalDialog.md)                               | Manage many-to-many relationship                                   | 2-Intermediate |
+| [MemoryCardGame](./Projects/2-Intermediate/MemoryCardGame.md)                         | A card memory game                                                 | 2-Intermediate |
+| [ModalDialog](./Projects/2-Intermediate/ModalDialog.md)                               | Manage many-to-many relationship                                   | 2-Intermediate |
 | [MovieApp](./Projects/2-Intermediate/MovieApp.md)                                 | Browse your next movie to watch                                    | 2-Intermediate |
+| [MySearch Page](./Projects/2-Intermediate/MySearch.md)                                | A search engine page                                               | 2-Intermediate |
 | [RockPaperScissors](./Projects/2-Intermediate/RockPaperScissors.md)               | A rock paper scissor game                                          | 2-Intermediate |
 | [WeatherApp](./Projects/2-Intermediate/WeatherApp.md)                             | Get the weather condition of a city                                | 2-Intermediate |
 | [WebScraping](./Projects/2-Intermediate/WebScraping.md)                           | Extract data from a website                                        | 2-Intermediate |
