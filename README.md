@@ -26,7 +26,7 @@ Exercises are divided into two tiers.
 
 | Name                                                                              | Short Description                                                  | Tier       |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|------------|
-| [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuiz.md)                     | Build a simple quiz game                                           | 1-Beginner |
+| [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuizGame.md)                     | Build a simple quiz game                                           | 1-Beginner |
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
 | [DynamicCSSVariables](./Projects/1-Beginner/DynamicCSSVariables.md)               | Dynamically change CSS variable settings                           | 1-Beginner |
 | [FlipContent](./Projects/1-Beginner/Christmas-Lights-App.md)                      | Set up a flip content with two images                              | 1-Beginner |
