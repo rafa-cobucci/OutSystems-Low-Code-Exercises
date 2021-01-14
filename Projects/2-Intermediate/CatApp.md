@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Browse through a list of cat breeds and discorver more about a cat's breed.
+Create a list of cat breeds and displays detailed information about the selected cat's breed.
 
 ### What you will practice:
 
@@ -10,6 +10,6 @@ REST API, Dropdown_Select - UI pattern, List records, Local variable - data type
 
 ### Useful links and resoucers:
 
-https://docs.thecatapi.com/
-https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Controls/Dropdown_Select
-https://success.outsystems.com/Documentation/11/Extensibility_and_Integration/REST/Consume_REST_APIs/Consume_One_or_More_REST_API_Methods
+- https://docs.thecatapi.com/
+- https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Controls/Dropdown_Select
+- https://success.outsystems.com/Documentation/11/Extensibility_and_Integration/REST/Consume_REST_APIs/Consume_One_or_More_REST_API_Methods
