@@ -2,7 +2,7 @@
 
 ## :ledger: OutSystems Low-Code Exercises
 
-No idea what to do to practice Outsystems? Here are a list of coding exercises that will help you improving your OutSystems skills!! 👍
+No idea what to do to practice Outsystems? Here are a list of low-code exercises that will help you improving your OutSystems skills!! 👍
 
 These exercises are focuses on:
 
@@ -10,6 +10,8 @@ These exercises are focuses on:
 - Logic;
 - Data Modeling;
 - Web Services Integration;
+- Service Studio 11;
+- Traditional Web Apps
 
 
 ## Exercises
