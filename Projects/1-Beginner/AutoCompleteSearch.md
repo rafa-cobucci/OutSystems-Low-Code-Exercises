@@ -6,7 +6,7 @@ Create a search field with autocomplete.
 
 ### What you will practice:
 
-Aggregate(filters), input, RichWidgets (Input_AutoComplete, Feedback_Message)
+Aggregate(filters), Input, RichWidgets (Input_AutoComplete, Feedback_Message)
 
 ### Useful links and resoucers:
 
