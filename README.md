@@ -6,7 +6,7 @@ No idea what to do to practice Outsystems? Here are a list of low-code exercises
 
 These exercises are focuses on:
 
-- UI development;
+- UI Development;
 - Logic;
 - Data Modeling;
 - Web Services Integration;
@@ -35,7 +35,6 @@ Exercises are divided into two levels.
 | [FloatingSearchBar](./Projects/1-Beginner/FloatingSearchBar.md)                   | Create a floating search bar                                       | 1-Beginner |
 | [HighChart](./Projects/1-Beginner/HighChart.md)                                   | Chart showing a combination of a column and a line chart           | 1-Beginner |
 | [MemoryCardGame](./Projects/1-Beginner/MemoryCardGame.md)                         | A card memory game                                                 | 1-Beginner |
-| [ModalDialog](./Projects/1-Beginner/ModalDialog.md)                               | Manage many-to-many relationship                                   | 1-Beginner |
 | [MySearch Page](./Projects/1-Beginner/MySearch.md)                                | A search engine page                                               | 1-Beginner |
 | [OccupationRateChart](./Projects/1-Beginner/OccupationRateChart.md)               | Create a chart using DataPoint structure                           | 1-Beginner |
 | [OutSystemsSignUp](./Projects/1-Beginner/OutSystemsSignUp.md)                     | Clone Outsystems signup page                                       | 1-Beginner |
@@ -49,6 +48,7 @@ Exercises are divided into two levels.
 | Name                                                                              | Short Description                                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Learn about the characteristics and behaviors of your cat's breed  | 2-Intermediate |
+| [ModalDialog](./Projects/1-Beginner/ModalDialog.md)                               | Manage many-to-many relationship                                   | 2-Intermediate |
 | [MovieApp](./Projects/2-Intermediate/MovieApp.md)                                 | Browse your next movie to watch                                    | 2-Intermediate |
 | [RockPaperScissors](./Projects/2-Intermediate/RockPaperScissors.md)               | A rock paper scissor game                                          | 2-Intermediate |
 | [WeatherApp](./Projects/2-Intermediate/WeatherApp.md)                             | Get the weather condition of a city                                | 2-Intermediate |
