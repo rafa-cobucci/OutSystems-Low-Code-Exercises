@@ -15,4 +15,4 @@ REST API, Dropdown_Select - UI pattern, List records, Local variable - data type
 - https://success.outsystems.com/Documentation/11/Extensibility_and_Integration/REST/Consume_REST_APIs/Consume_One_or_More_REST_API_Methods
 
 ### Example
-![OutSystems Image](./Samples/.png)
+![OutSystems Image](./Samples/catApp.png)
