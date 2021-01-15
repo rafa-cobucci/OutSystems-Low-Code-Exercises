@@ -10,7 +10,7 @@ Aggregate(filters), Input, RichWidgets (Input_AutoComplete, Feedback_Message)
 
 ### Useful links and resoucers:
 
-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_autocomplete
+- https://success.outsystems.com/Documentation/11/Developing_an_Application/Use_Data/Query_Data
 - https://success.outsystems.com/Documentation/How-to_Guides/Front-End/How_to_create_a_search_field_with_autocomplete_in_a_Traditional_Web_App
 
 ### Example
