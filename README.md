@@ -28,7 +28,6 @@ Exercises are divided into two levels.
 
 | Name                                                                              | Short Description                                                  | Level      |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|------------|
-| [Australia Quiz Game](./Projects/1-Beginner/AustraliaQuizGame.md)                 | Build a simple quiz game                                           | 1-Beginner |
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
 | [DynamicCSSVariables](./Projects/1-Beginner/DynamicCSSVariables.md)               | Dynamically change CSS variable settings                           | 1-Beginner |
 | [FlipContent](./Projects/1-Beginner/FlipContent.md)                               | Set up a flip content with two images                              | 1-Beginner |
@@ -44,6 +43,7 @@ Exercises are divided into two levels.
 
 | Name                                                                              | Short Description                                                  | Level          |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
+| [Australia Quiz Game](./Projects/2-Intermediate/AustraliaQuizGame.md)                 | Build a simple quiz game                                           | 1-Beginner |
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Learn about the characteristics and behaviors of your cat's breed  | 2-Intermediate |
 | [FloatingSearchBar](./Projects/2-Intermediate/FloatingSearchBar.md)               | Create a floating search bar                                       | 2-Intermediate |
 | [MemoryCardGame](./Projects/2-Intermediate/MemoryCardGame.md)                     | A card memory game                                                 | 2-Intermediate |
