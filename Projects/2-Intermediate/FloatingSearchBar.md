@@ -17,3 +17,6 @@ Web Block, Link, Icons, built-in action (RunJavaScript), CSS properties.
 - https://developer.mozilla.org/en-US/docs/Web/CSS/position
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+
+### Example
+![OutSystems Image](./Samples/floatingSearchBar.png)
