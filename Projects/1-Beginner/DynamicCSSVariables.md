@@ -14,3 +14,7 @@ UI pattern - RangeSlider, Input and Container extended properties, CSS propertie
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transform
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
+
+### Example
+![OutSystems Image](./Samples/dynamicCSSVariables.png)
+
