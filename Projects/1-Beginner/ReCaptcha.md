@@ -16,4 +16,4 @@ How to integrate a Forge component, Form widget, Form validation.
 - https://www.google.com/recaptcha 
 
 ### Example
-![OutSystems Image](./Samples/.png)
+![OutSystems Image](./Samples/reCaptcha.png)
