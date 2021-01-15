@@ -13,6 +13,7 @@ Local variable, Ajax refresh, Screen action, Card, Checkbox, Bullets, Carousel, 
 - https://www.oberlo.com/ecommerce-wiki/checkout-page
 - https://theathletic.com/checkout2?plan_id=46
 - https://outsystemsui.outsystems.com/WebStyleGuidePreview/Homepage.aspx
+- https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Layout
 
 ### Example
 ![OutSystems Image](./Samples/checkoutPage.png)
