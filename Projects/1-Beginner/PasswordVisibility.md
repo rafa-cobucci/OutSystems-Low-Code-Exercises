@@ -12,3 +12,6 @@ Input - type: password; Local variable, If widget, Ajax refresh, InputWithIcon w
 
 - https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Controls/Input_with_Icon
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password
+
+### Example
+![OutSystems Image](./Samples/.png)
