@@ -15,3 +15,6 @@ Server action, Server action function, Extension, Switch widget, RunJavaScript(S
 - https://www.outsystems.com/forge/Component_Documentation.aspx?ProjectId=677&ProjectName=randomizer-number-generator
 - https://success.outsystems.com/Documentation/11/Extensibility_and_Integration/JavaScript/Extend_Your_Web_Application_Using_JavaScript/Define_and_Run_JavaScript_Code
 - https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Look_and_Feel/Cascading_Style_Sheets_(CSS)
+
+### Example
+![OutSystems Image](./Samples/rockPaperScissors.png)
