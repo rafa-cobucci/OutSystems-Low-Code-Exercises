@@ -15,3 +15,6 @@ ListAppend (System Server Action)
 - https://success.outsystems.com/Documentation/11/Reference/OutSystems_APIs/Charts_API
 - https://api.highcharts.com/highcharts/
 - https://www.highcharts.com/demo/combo-dual-axes
+
+### Example
+![OutSystems Image](./Samples/highChart.png)
