@@ -16,5 +16,5 @@ UI pattern - FlipContent and Alert, Screen action, Image widget, CSS selectors.
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotateX()
 
 ### Example
-![OutSystems Image](./Samples/.png)
+![OutSystems Image](./Samples/flipContent.png)
 
