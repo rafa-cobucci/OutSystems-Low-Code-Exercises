@@ -18,4 +18,4 @@ Aggregate, CRUD operations, External URL, Modal, Balloon, Section, CSS Pseudo-cl
 - https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation
 
 ### Example
-![OutSystems Image](./Samples/mySearch.png)
+![OutSystems Image](./Samples/mySearchPage.png)
