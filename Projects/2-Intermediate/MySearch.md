@@ -1,4 +1,4 @@
-## :ledger: MySearch
+## :ledger: MySearchPage
 
 ### About The Exercise:
 
