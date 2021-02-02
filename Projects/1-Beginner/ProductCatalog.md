@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Rebuild an Outsystems Screen Template (Product Catalog).  A product showcase on a single screen that can switch between a gallery and a list view.
+Rebuild an Outsystems Reactive Screen Template (Product Catalog).  A product showcase on a single screen that can switch between a gallery and a list view.
 
 ### What you will practice:
 
