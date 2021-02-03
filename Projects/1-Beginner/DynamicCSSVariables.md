@@ -6,7 +6,7 @@ Dynamically change CSS variable settings using Controls/RangeSlider and Extended
 
 ### What you will practice:
 
-UI pattern - RangeSlider, Input and Container extended properties, CSS properties.
+UI pattern - RangeSlider, Input - type: color, Container extended properties, CSS properties.
 
 ### Useful links and resoucers:
 
