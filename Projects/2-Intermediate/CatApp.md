@@ -6,7 +6,7 @@ Create a list of cat breeds and displays detailed information about the selected
 
 ### What you will practice:
 
-REST API, Dropdown_Select - UI pattern, List records, Local variable - data type: List, Image widget properties.
+REST API, UI pattern - Dropdown_Select, List records, Local variable - data type: List, Image widget properties.
 
 ### Useful links and resoucers:
 
