@@ -32,7 +32,7 @@ Exercises are divided into two levels.
 | [DynamicCSSVariables](./Projects/1-Beginner/DynamicCSSVariables.md)               | Dynamically change CSS variable settings                           | 1-Beginner |
 | [FlipContent](./Projects/1-Beginner/FlipContent.md)                               | Set up a flip content with two images                              | 1-Beginner |
 | [HighChart](./Projects/1-Beginner/HighChart.md)                                   | Chart showing a combination of a column and a line chart           | 1-Beginner |
-| [OccupationRateChart](./Projects/1-Beginner/OccupationRateChart.md)               | Create a chart using DataPoint structure                           | 1-Beginner |
+| [OccupancyRateChart](./Projects/1-Beginner/OccupancyRateChart.md)                 | Create a chart using DataPoint structure                           | 1-Beginner |
 | [OutSystemsSignUp](./Projects/1-Beginner/OutSystemsSignUp.md)                     | Clone Outsystems signup page                                       | 1-Beginner |
 | [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle Password Visibility                                         | 1-Beginner |
 | [ProductCatalog](./Projects/1-Beginner/ProductCatalog.md)                         | Rebuild an Outsystems Screen Template                              | 1-Beginner |
