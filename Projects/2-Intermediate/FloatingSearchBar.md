@@ -6,7 +6,7 @@ Create a floating search bar. Clone the floating search bar from OutSystems Offi
 
 ### What you will practice:
 
-Web Block, Event, Link, Icons, built-in action (RunJavaScript), CSS properties. 
+Web Block, Event, Session variable, Link, Icons, built-in action (RunJavaScript), CSS properties. 
 
 ### Useful links and resoucers:
 
