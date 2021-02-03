@@ -59,6 +59,6 @@ Exercises are divided into two levels.
 ### Thanks for inspiration: 👍
 
 - Florin Pop        -- https://github.com/florinpop17
-- Colt Steele       -- https://github.com/Colt
 - Beatriz Silva     -- https://www.outsystems.com/profile/233465/
 - Rafa OutSystems   -- https://www.linkedin.com/in/rafa-outsystems/
+- Colt Steele       -- https://github.com/Colt
