@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create a list of cat breeds and displays detailed information about the selected cat's breed.
+Create a list of cat breeds and displays detailed information about the selected cat.
 
 ### What you will practice:
 
