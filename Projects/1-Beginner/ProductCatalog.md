@@ -10,9 +10,10 @@ UI patterns - (Gallery, Search, Tag), Switch widget, If function, Refresh data, 
 
 ### Useful links and resoucers:
 
-- https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Controls/Search
-- https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Structure/Gallery
+- https://outsystemsui.outsystems.com/WebStyleGuidePreview/UIPatterns.aspx
 - https://success.outsystems.com/Documentation/10/Reference/OutSystems_Language/Logic/Built-in_Functions/Miscellaneous
+- https://success.outsystems.com/Documentation/11/Developing_an_Application/Use_Data/Use_Structures_and_Records_to_Create_Compound_Data_Types
+- https://success.outsystems.com/Documentation/11/Reference/OutSystems_Language/Traditional_Web/Web_Logic_Tools/Switch
 
 ### Example
 ![OutSystems Image](./Samples/productCatalog.png)
