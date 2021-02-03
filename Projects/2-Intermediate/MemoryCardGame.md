@@ -2,11 +2,11 @@
 
 ### About The Exercise:
 
-Build a card memory game. 
+Build a matching card game. 
 
 ### What you will practice:
 
-Built-in action (RunJavaScript), If widget, CSS properties, Screen Action - Input parameter, image widget.
+Built-in action (RunJavaScript), If widget, CSS properties, Screen Action - Input parameter, Image widget.
 
 ### Useful links and resoucers:
 
