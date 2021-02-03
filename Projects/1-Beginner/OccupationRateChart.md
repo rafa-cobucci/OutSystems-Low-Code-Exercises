@@ -1,4 +1,4 @@
-## :ledger: OccupationRateChart
+## :ledger: OccupancyRateChart
 
 ### About The Exercise:
 
