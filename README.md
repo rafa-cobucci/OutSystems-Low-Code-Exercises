@@ -43,10 +43,10 @@ Exercises are divided into two levels.
 
 | Name                                                                              | Short Description                                                  | Level          |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
-| [Australia Quiz Game](./Projects/2-Intermediate/AustraliaQuizGame.md)                 | Build a simple quiz game                                           | 1-Beginner |
+| [Australia Quiz Game](./Projects/2-Intermediate/AustraliaQuizGame.md)             | Build a simple quiz game                                           | 2-Intermediate |
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Learn about the characteristics and behaviors of your cat's breed  | 2-Intermediate |
 | [FloatingSearchBar](./Projects/2-Intermediate/FloatingSearchBar.md)               | Create a floating search bar                                       | 2-Intermediate |
-| [MemoryCardGame](./Projects/2-Intermediate/MemoryCardGame.md)                     | A card memory game                                                 | 2-Intermediate |
+| [MemoryCardGame](./Projects/2-Intermediate/MemoryCardGame.md)                     | The object of the game is to turn over pairs of matching cards     | 2-Intermediate |
 | [ModalDialog](./Projects/2-Intermediate/ModalDialog.md)                           | Manage many-to-many relationship                                   | 2-Intermediate |
 | [MovieApp](./Projects/2-Intermediate/MovieApp.md)                                 | Browse your next movie to watch                                    | 2-Intermediate |
 | [MySearchPage](./Projects/2-Intermediate/MySearch.md)                             | Your own search engine page                                        | 2-Intermediate |
