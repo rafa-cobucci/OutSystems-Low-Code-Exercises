@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Build a Rock Paper Scissors game. Game tutorial from freeCodeCamp.org. 
+Build a Rock Paper Scissors game.  
 
 ### What you will practice:
 
