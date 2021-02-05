@@ -16,3 +16,4 @@ Extend your web application using javaScript, Web block, Expression - Escape Con
 
 ### Example
 ![OutSystems Image](./Samples/JSExternalLibrary.png)
+[![Watch the video]
