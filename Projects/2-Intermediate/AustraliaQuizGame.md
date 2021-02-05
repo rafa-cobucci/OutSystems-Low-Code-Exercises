@@ -18,3 +18,4 @@ Local variable, List records, Input Parameter, Ajax refresh, Card sectioned, Exp
 
 ### Example
 ![OutSystems Image](./Samples/australiaQuiz.png)
+![](./Samples/AustraliaQuiz.gif)
