@@ -17,3 +17,4 @@ REST API, UI pattern - Dropdown_Select, List records, Local variable - data type
 
 ### Example
 ![OutSystems Image](./Samples/catApp.png)
+![](./Samples/CatApp.gif)
