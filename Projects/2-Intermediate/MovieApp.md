@@ -17,3 +17,4 @@ How to consume REST API, Web Screen Templates, ListAppend, ListClear, ForEach wi
 
 ### Example
 ![OutSystems Image](./Samples/movieApp.png)
+![](./Samples/MovieApp.gif)
