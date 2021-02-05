@@ -15,5 +15,5 @@ Extend your web application using javaScript, Web block, Expression - Escape Con
 - https://www.youtube.com/watch?v=3Fd9yhfjY8c&list=PLkXXB4zZ-CBzCf7RnVQKJK47qsjsNdYPf&index=4 (OutPower Tutorial)
 
 ### Example
-![](./Samples/JStLibrary.gif)
+![caption](./Samples/JSLibrary.gif)
 
