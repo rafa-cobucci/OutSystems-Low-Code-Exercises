@@ -17,3 +17,4 @@ Built-in action (RunJavaScript), If widget, CSS properties, Screen Action - Inpu
 
 ### Example
 ![OutSystems Image](./Samples/memoryCardGame.png)
+![caption](./Samples/MemoryCardGame.gif)
