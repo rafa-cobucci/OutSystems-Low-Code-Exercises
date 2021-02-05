@@ -19,4 +19,5 @@ Aggregate, CRUD operations, External URL, Modal, Balloon, Section, CSS Pseudo-cl
 
 ### Example
 ![OutSystems Image](./Samples/mySearchPage.png)
+![](./Samples/MySearchPage.gif)
 
