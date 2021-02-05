@@ -46,7 +46,7 @@ Exercises are divided into two levels.
 | [Australia Quiz Game](./Projects/2-Intermediate/AustraliaQuizGame.md)             | Build a simple quiz game                                           | 2-Intermediate |
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Display detailed information about a selected cat's breed          | 2-Intermediate |
 | [FloatingSearchBar](./Projects/2-Intermediate/FloatingSearchBar.md)               | Create a floating search bar                                       | 2-Intermediate |
-| [JSExternalLibrary](./Projects/1-Beginner/JSExternalLibrary.md)                   |                                           | 2-Intermediate |
+| [JSExternalLibrary](./Projects/2-Intermediate/JSExternalLibrary.md)               | Use JavaScript Code from an External Library                       | 2-Intermediate |
 | [MemoryCardGame](./Projects/2-Intermediate/MemoryCardGame.md)                     | The object of the game is to turn over pairs of matching cards     | 2-Intermediate |
 | [ModalDialog](./Projects/2-Intermediate/ModalDialog.md)                           | Manage many-to-many relationship                                   | 2-Intermediate |
 | [MovieApp](./Projects/2-Intermediate/MovieApp.md)                                 | Browse your next movie to watch                                    | 2-Intermediate |
