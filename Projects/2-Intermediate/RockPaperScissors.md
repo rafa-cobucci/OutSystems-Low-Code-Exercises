@@ -19,3 +19,4 @@ Server action, Server action function, Extension, Switch widget, RunJavaScript(S
 
 ### Example
 ![OutSystems Image](./Samples/rockPaperScissors.png)
+![](./Samples/RockPaperScissors.gif)
