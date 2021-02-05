@@ -14,4 +14,4 @@ Input - type: password; Local variable, If widget, Ajax refresh, InputWithIcon w
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password
 
 ### Example
-![OutSystems Image](./Samples/passwordVisibility.png)
+![](./Samples/PasswordVisibility.gif)
