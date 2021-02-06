@@ -18,3 +18,4 @@ Create a Many-to-Many Relationship, Web block, Modal, Tag.
 
 ### Example
 ![OutSystems Image](./Samples/modalDialog.png)
+![](./Samples/ModalDialog.gif)
