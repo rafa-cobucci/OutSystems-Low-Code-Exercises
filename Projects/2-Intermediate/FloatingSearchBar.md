@@ -20,4 +20,4 @@ Web Block, Event, Session variable, Link, Icons, built-in action (RunJavaScript)
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transform
 
 ### Example
-![OutSystems Image](./Samples/floatingSearchBar.png)
+![](./Samples/FloatingSearchBar.gif)
