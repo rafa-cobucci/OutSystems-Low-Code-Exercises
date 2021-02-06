@@ -18,5 +18,4 @@ Form validation, Email validation using Regex_Search(Server Action), On Change E
 
 
 ### Example
-![OutSystems Image](./Samples/outSystemsSignUp.png)
 ![](./Samples/OutSystemsSignUp.gif)
