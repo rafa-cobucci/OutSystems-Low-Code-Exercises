@@ -15,5 +15,5 @@ Built-in Functions, Server action, input parameter, output parameter.
 - https://success.outsystems.com/Documentation/11/Developing_an_Application/Implement_Application_Logic/Actions_in_Web_Applications
 
 ### Example
-![](./Samples/.png)
+![](./Samples/MyOwnFunction.gif)
 
