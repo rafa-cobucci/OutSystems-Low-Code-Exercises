@@ -49,7 +49,7 @@ Exercises are divided into two levels.
 | [FloatingSearchBar](./Projects/2-Intermediate/FloatingSearchBar.md)               | Create a floating search bar                                       | 2-Intermediate |
 | [JSExternalLibrary](./Projects/2-Intermediate/JSExternalLibrary.md)               | Use JavaScript Code from an External Library                       | 2-Intermediate |
 | [MemoryCardGame](./Projects/2-Intermediate/MemoryCardGame.md)                     | Build a matching cards game                                        | 2-Intermediate |
-| [ModalDialog](./Projects/2-Intermediate/ModalDialog.md)                           | Manage many-to-many relationship                                   | 2-Intermediate |
+| [ModalDialog](./Projects/2-Intermediate/ModalDialog.md)                           | Manage a many-to-many relationship                                 | 2-Intermediate |
 | [MovieApp](./Projects/2-Intermediate/MovieApp.md)                                 | Browse your next movie to watch                                    | 2-Intermediate |
 | [MySearchPage](./Projects/2-Intermediate/MySearchPage.md)                         | Your own search engine page                                        | 2-Intermediate |
 | [RockPaperScissors](./Projects/2-Intermediate/RockPaperScissors.md)               | The classic rock paper scissor game                                | 2-Intermediate |
