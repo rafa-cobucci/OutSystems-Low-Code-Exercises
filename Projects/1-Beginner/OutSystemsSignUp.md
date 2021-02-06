@@ -6,7 +6,7 @@ Clone the OutSystems signup page.
 
 ### What you will practice:
 
-Form validation, Inputs, Email validation using Regex_Search(Server Action), On Change Event.
+Form validation, Email validation using Regex_Search(Server Action), On Change Event.
 
 ### Useful links and resoucers:
 
