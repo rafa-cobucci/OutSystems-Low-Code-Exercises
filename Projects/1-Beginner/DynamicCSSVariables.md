@@ -17,4 +17,5 @@ UI pattern - RangeSlider, Input - type: color, Container extended properties, CS
 
 ### Example
 ![OutSystems Image](./Samples/dynamicCSSVariables.png)
+![OutSystems Image](./Samples/DynamicCSSVariables.gif)
 
