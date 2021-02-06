@@ -17,4 +17,4 @@ UI pattern - FlipContent and Alert, Screen action, Image widget, CSS selectors.
 
 ### Example
 ![OutSystems Image](./Samples/flipContent.png)
-
+![](./Samples/FlipContent.gif)
