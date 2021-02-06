@@ -16,5 +16,4 @@ How to consume REST API, Web Screen Templates, ListAppend, ListClear, ForEach wi
 - https://success.outsystems.com/Documentation/11/Extensibility_and_Integration/REST/Consume_REST_APIs/Handling_REST_Errors
 
 ### Example
-![OutSystems Image](./Samples/movieApp.png)
 ![](./Samples/MovieApp.gif)
