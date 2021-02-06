@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Data modelling a many-to-many relationship and build an application to tag tourist attractions of your city.
+Define a many-to-many relationship and build an application to tag tourist attractions of your city.
 
 ### What you will practice:
 
