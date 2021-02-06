@@ -16,5 +16,4 @@ Built-in action (RunJavaScript), If widget, CSS properties, Screen Action - Inpu
 - https://www.w3schools.com/howto/howto_css_flip_card.asp
 
 ### Example
-![OutSystems Image](./Samples/memoryCardGame.png)
 ![caption](./Samples/MemoryCardGame.gif)
