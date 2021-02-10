@@ -37,7 +37,7 @@ Exercises are divided into two levels.
 | [OutSystemsSignUp](./Projects/1-Beginner/OutSystemsSignUp.md)                     | Clone Outsystems signup page                                       | 1-Beginner |
 | [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle Password Visibility                                         | 1-Beginner |
 | [ProductCatalog](./Projects/1-Beginner/ProductCatalog.md)                         | Rebuild an Outsystems Screen Template                              | 1-Beginner |
-| [ReadMoreReadLess](./Projects/1-Beginner/ReadMoreReadLess.md)                     | Toggle the visibility of a full text                               | 1-Beginner |
+| [ReadMoreReadLess](./Projects/1-Beginner/ReadMoreReadLess.md)                     | Toggle the visibility of an element                                | 1-Beginner |
 
 
 ### Level-2: Intermediate Exercises
