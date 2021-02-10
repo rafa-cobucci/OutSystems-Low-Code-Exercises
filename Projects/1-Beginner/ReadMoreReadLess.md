@@ -13,4 +13,4 @@ UI pattern - Panel, Screen action, If widget, Ajax refresh.
 - 
 
 ### Example
-![](./Samples/)
+![](./Samples/ReadMoreReadLess.gif)
