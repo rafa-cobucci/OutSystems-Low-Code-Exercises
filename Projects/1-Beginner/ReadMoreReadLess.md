@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create a "read more - read less" button.  Toggle the visibility of content with a few logic.
+Create a "read more - read less" button.  Use this action to show the full information or a small piece of information.
 
 ### What you will practice:
 
