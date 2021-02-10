@@ -10,6 +10,7 @@ Input - type: password; TogglePassword (OutSystemsUIWeb reference), Local variab
 
 ### Useful links and resoucers:
 
+- https://success.outsystems.com/Documentation/11/Reference/OutSystems_Language/Traditional_Web/Web_Interfaces/Designing_Screens/Input_Widget
 - https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Patterns/Using_Traditional_Web_Patterns/Controls/Input_with_Icon
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password
 
