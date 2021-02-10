@@ -6,7 +6,7 @@ Create an input with the type of password and an icon that allows users to click
 
 ### What you will practice:
 
-Input - type: password; Local variable, If widget, Ajax refresh, InputWithIcon widget, Check Box widget.
+Input - type: password; TogglePassword (OutSystemsUIWeb reference), Local variable, If widget, Ajax refresh, InputWithIcon widget, Check Box widget.
 
 ### Useful links and resoucers:
 
