@@ -16,4 +16,4 @@ Link widget, CSS style sheet editor, CSS selectors.
 - https://www.youtube.com/watch?v=ceNMP-aQkQ4 - Kevin Powell (YouTube channel)
 
 ### Example
-![OutSystems Image](./Samples/)
+![OutSystems Image](./Samples/FancyLink.gif)
