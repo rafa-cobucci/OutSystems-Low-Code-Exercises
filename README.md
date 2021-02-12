@@ -31,6 +31,7 @@ Exercises are divided into two levels.
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
 | [CheckoutPage](./Projects/1-Beginner/CheckoutPage.md)                             | Create a simple checkout page                                      | 1-Beginner |
 | [DynamicCSSVariables](./Projects/1-Beginner/DynamicCSSVariables.md)               | Dynamically change CSS variable settings                           | 1-Beginner |
+| [FancyLink](./Projects/1-Beginner/FancyLink.md)                                   | Create an animated link                                            | 1-Beginner |
 | [HighChart](./Projects/1-Beginner/HighChart.md)                                   | Chart showing a combination of a column and a line chart           | 1-Beginner |
 | [MyOwnFunction](./Projects/1-Beginner/MyOwnFunction.md)                           | Capitalize the first letter of a string                            | 1-Beginner |
 | [OccupancyRateChart](./Projects/1-Beginner/OccupancyRateChart.md)                 | Create a chart using DataPoint structure                           | 1-Beginner |
