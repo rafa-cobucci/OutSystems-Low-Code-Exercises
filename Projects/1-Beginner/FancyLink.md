@@ -6,7 +6,7 @@ Create a fancy animated link using CSS hover affects.
 
 ### What you will practice:
 
-Link widget, CSS style sheet editor, CSS selectors.
+Link widget, CSS style sheet editor, CSS Properties.
 
 ### Useful links and resoucers:
 
