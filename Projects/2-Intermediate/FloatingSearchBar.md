@@ -17,7 +17,6 @@ Web Block, Event, Session variable, Link, Icons, built-in action (RunJavaScript)
 - https://developer.cdn.mozilla.net/pt-BR/docs/Web/API/Element/classList
 - https://developer.mozilla.org/en-US/docs/Web/CSS/position
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
-- https://developer.mozilla.org/en-US/docs/Web/CSS/transform
 
 ### Example
 ![](./Samples/FloatingSearchBar.gif)
