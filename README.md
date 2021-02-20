@@ -30,7 +30,7 @@ Exercises are divided into two levels.
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|------------|
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
 | [CheckoutPage](./Projects/1-Beginner/CheckoutPage.md)                             | Build a simple checkout page                                       | 1-Beginner |
-| [DynamicCSS](./Projects/1-Beginner/DynamicCSS.md)                                 | Create and apply CSS class to an element dynamically               | 1-Beginner |
+| [DynamicCSSclasses](./Projects/1-Beginner/DynamicCSSclasses.md)                   | Create and apply CSS class to an element dynamically               | 1-Beginner |
 | [FancyLink](./Projects/1-Beginner/FancyLink.md)                                   | Make an animated link                                              | 1-Beginner |
 | [HighChart](./Projects/1-Beginner/HighChart.md)                                   | Chart showing a combination of a column and a line chart           | 1-Beginner |
 | [MyOwnFunction](./Projects/1-Beginner/MyOwnFunction.md)                           | Capitalize the first letter of a string                            | 1-Beginner |
