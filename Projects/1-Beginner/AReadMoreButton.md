@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create a "read more - read less" button.  Use this button to show the full information or a small piece of information.
+Show the hidden information by clicking on a Read more button.
 
 ### What you will practice:
 
