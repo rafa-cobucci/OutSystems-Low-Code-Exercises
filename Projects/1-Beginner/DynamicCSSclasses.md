@@ -1,4 +1,4 @@
-## :ledger: DynamicCSSclass
+## :ledger: DynamicCSSclasses
 
 ### About The Exercise:
 
