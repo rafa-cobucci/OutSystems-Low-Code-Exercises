@@ -1,8 +1,8 @@
-## :ledger: ReadMoreReadLess
+## :ledger: AReadMoreButton
 
 ### About The Exercise:
 
-Create a "read more - read less" button.  Use this action to show the full information or a small piece of information.
+Create a "read more - read less" button.  Use this button to show the full information or a small piece of information.
 
 ### What you will practice:
 
