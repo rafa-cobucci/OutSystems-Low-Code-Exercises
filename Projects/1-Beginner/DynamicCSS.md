@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create an screen action to change an image style. Practise how to specify the CSS classes dynamically.
+Create CSS classes and apply to an image dynamically. 
 
 ### What you will practice:
 
