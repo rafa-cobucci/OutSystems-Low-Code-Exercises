@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Use JavaScript Code from an External Library
+Use JavaScript Code from an External Library.
 
 ### What you will practice:
 
