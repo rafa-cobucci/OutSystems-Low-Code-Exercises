@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create a simple checkout page. Use UI patterns and widgets from OutSystemsUI - The Low-Code UI Framework.
+Create a simple checkout page. 
 
 ### What you will practice:
 
