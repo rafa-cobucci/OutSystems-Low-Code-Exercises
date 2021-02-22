@@ -29,7 +29,6 @@ Exercises are divided into two levels.
 | Name                                                                              | Short Description                                                  | Level      |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|------------|
 | [AutoCompleteSearch](./Projects/1-Beginner/AutoCompleteSearch.md)                 | Create a search field with autocomplete                            | 1-Beginner |
-| [AReadMoreButton](./Projects/1-Beginner/AReadMoreButton.md)                       | Build a read more button                                           | 1-Beginner |
 | [CheckoutPage](./Projects/1-Beginner/CheckoutPage.md)                             | Make a simple checkout page                                        | 1-Beginner |
 | [DynamicCSSclasses](./Projects/1-Beginner/DynamicCSSclasses.md)                   | Create and apply CSS class to an element dynamically               | 1-Beginner |
 | [FancyLink](./Projects/1-Beginner/FancyLink.md)                                   | Make an animated link                                              | 1-Beginner |
@@ -38,7 +37,7 @@ Exercises are divided into two levels.
 | [OccupancyRateChart](./Projects/1-Beginner/OccupancyRateChart.md)                 | Create a chart using DataPoint structure                           | 1-Beginner |
 | [OutSystemsSignUp](./Projects/1-Beginner/OutSystemsSignUp.md)                     | Clone Outsystems signup page                                       | 1-Beginner |
 | [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle Password Visibility                                         | 1-Beginner |
-
+| [ReadMoreButton](./Projects/1-Beginner/ReadMoreButton.md)                         | Build a read more button                                           | 1-Beginner |
 
 ### Level-2: Intermediate Exercises
 
