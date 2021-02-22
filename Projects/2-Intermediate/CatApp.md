@@ -16,5 +16,5 @@ REST API, UI pattern - Dropdown_Select, List records, Local variable - data type
 - https://devchallenges.io/challenges/f4NJ53rcfgrP6sBMD2jt
 
 ### Example
-![OutSystems Image](./Samples/CatWiki.gif)
-
+![](./Samples/CatWiki.gif)
+![OutSystems Image](./Samples/catApp.png)
