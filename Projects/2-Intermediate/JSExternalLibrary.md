@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Use JavaScript Code from an External Library.
+Use JavaScript Code from an External Library. Create an animated input.
 
 ### What you will practice:
 
