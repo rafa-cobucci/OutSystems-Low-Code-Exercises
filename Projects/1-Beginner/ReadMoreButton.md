@@ -1,4 +1,4 @@
-## :ledger: AReadMoreButton
+## :ledger: ReadMoreButton
 
 ### About The Exercise:
 
