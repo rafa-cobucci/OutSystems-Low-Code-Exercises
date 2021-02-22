@@ -43,7 +43,7 @@ Exercises are divided into two levels.
 
 | Name                                                                              | Short Description                                                  | Level          |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------|----------------|
-| [Australia Quiz Game](./Projects/2-Intermediate/AustraliaQuizGame.md)             | Build a simple quiz game                                           | 2-Intermediate |
+| [AustraliaQuizGame](./Projects/2-Intermediate/AustraliaQuizGame.md)               | Build a simple quiz game                                           | 2-Intermediate |
 | [CatApp](./Projects/2-Intermediate/CatApp.md)                                     | Display detailed information about a selected cat's breed          | 2-Intermediate |
 | [FloatingSearchBar](./Projects/2-Intermediate/FloatingSearchBar.md)               | Create a floating search bar                                       | 2-Intermediate |
 | [JSExternalLibrary](./Projects/2-Intermediate/JSExternalLibrary.md)               | Use JavaScript Code from an External Library                       | 2-Intermediate |
