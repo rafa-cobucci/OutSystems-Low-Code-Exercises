@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Clone the OutSystems signup page. 
+Clone the OutSystems signup page. Validate the information users enter in the form.
 
 ### What you will practice:
 
