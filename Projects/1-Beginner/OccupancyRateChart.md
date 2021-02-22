@@ -16,4 +16,4 @@ Chart widget, Chart properties, Built-in functions (AddDays, DiffDays), Aggregat
 
 ### Example
 ![OutSystems Image](./Samples/occupationRateChart.png)
-![](./Samples/OccupationRateChart.gif)
+
