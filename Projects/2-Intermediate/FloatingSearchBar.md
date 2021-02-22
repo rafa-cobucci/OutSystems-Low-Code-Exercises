@@ -2,7 +2,7 @@
 
 ### About The Exercise:
 
-Create a floating search bar. Clone the floating search bar from OutSystems Official Website.
+Create a floating search bar similar to the one displayed in the OutSystems Official Website.
 
 ### What you will practice:
 
