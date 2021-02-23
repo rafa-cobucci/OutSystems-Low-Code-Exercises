@@ -36,7 +36,7 @@ Exercises are divided into two levels.
 | [MyOwnFunction](./Projects/1-Beginner/MyOwnFunction.md)                           | Capitalize the first letter of a string                            | 1-Beginner |
 | [OccupancyRateChart](./Projects/1-Beginner/OccupancyRateChart.md)                 | Create a chart using DataPoint structure                           | 1-Beginner |
 | [OutSystemsSignUp](./Projects/1-Beginner/OutSystemsSignUp.md)                     | Clone Outsystems signup page                                       | 1-Beginner |
-| [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle Password Visibility                                         | 1-Beginner |
+| [PasswordVisibility](./Projects/1-Beginner/PasswordVisibility.md)                 | Toggle password visibility                                         | 1-Beginner |
 | [ReadMoreButton](./Projects/1-Beginner/ReadMoreButton.md)                         | Build a read more button                                           | 1-Beginner |
 
 ### Level-2: Intermediate Exercises
