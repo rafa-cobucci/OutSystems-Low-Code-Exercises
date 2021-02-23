@@ -13,6 +13,7 @@ These exercises are focuses on:
 - Service Studio 11;
 - Traditional Web Apps
 
+- You can find a possible solution for the exercises here: https://www.outsystems.com/forge/component-overview/10401/outsystems-low-code-exercises
 
 ## Exercises
 
